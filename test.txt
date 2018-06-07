@@ -1,1 +1,0 @@
-Ceci est un test pour vérifier que l'importation de fichiers fonctionne bien !
