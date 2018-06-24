@@ -19,7 +19,7 @@ let valid_id c = (* Reconnaît les caractères valides pour un identificateur : 
   let n = int_of_char c in 
   (isalphanum c || n = 95);;
 
-let table_symboles = ['.';'&';'+';'=';'-';'*';'/';'\"';'%'];;
+let table_symboles = ['.';'&';'+';'=';'-';'*';'/';'\"';'%';'|';'<';'>';'_' ; ';'];;
 
 let issym c =
   List.mem c table_symboles;;
