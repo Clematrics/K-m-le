@@ -1,0 +1,45 @@
+----- x86 -----
+
+push
+pop
+
+add
+sub
+imul (signed)
+idiv (signed)
+neg
+cmp
+
+and
+or
+xor
+not
+
+sar
+sal
+
+jmp
+jxx
+loop ?
+call
+ret
+
+lea ?
+
+----- x87 -----
+
+fld
+fdt
+fild ?
+fist ?
+
+fadd
+fsub
+fmul
+fdiv
+fchs
+
+fcom / fcomi ?
+
+fincstp
+fdecstp

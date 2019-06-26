@@ -1,0 +1,35 @@
+Etapes :
+
+AST typ�
+
+    |
+    v
+
+AST typ� simplifi�
+
+    |
+    v
+
+Instruction selection
+
+    |
+    v
+
+Assignement des registres
+
+    |
+    v
+
+G�n�ration et applatissement des codes et donn�es
+
+    |
+    v
+
+Cr�ation du fichier C
+
+    |
+    v
+
+Compilation du C
+
++ gestion Garbage Collecctor
